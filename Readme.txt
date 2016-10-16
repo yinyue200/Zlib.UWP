@@ -1,3 +1,18 @@
+
+修改自http://dotnetzip.codeplex.com/
+
+修改了其中的zlib组件使zlib组件支持UWP
+
+Nuget地址 https://www.nuget.org/packages/Zlib.UWP
+
+
+
+
+
+
+
+
+
 Mon, 11 Jul 2011  20:10
 
 
