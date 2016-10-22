@@ -1,4 +1,4 @@
-[![NuGet](https://img.shields.io/nuget/v/Zlib.UWP.svg?style=flat)](https://www.nuget.org/packages/NUniversalCharDet)
+[![NuGet](https://img.shields.io/nuget/v/Zlib.UWP.svg?style=flat)](https://www.nuget.org/packages/Zlib.UWP)
 
 修改自http://dotnetzip.codeplex.com/
 
