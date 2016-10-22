@@ -1,9 +1,8 @@
+[![NuGet](https://img.shields.io/nuget/v/Zlib.UWP.svg?style=flat)](https://www.nuget.org/packages/NUniversalCharDet)
 
 修改自http://dotnetzip.codeplex.com/
 
 修改了其中的zlib组件使zlib组件支持UWP
-
-Nuget地址 https://www.nuget.org/packages/Zlib.UWP
 
 
 
